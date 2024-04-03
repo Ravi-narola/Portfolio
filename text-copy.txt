@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo
-Patrick <span>Moz</span>
+Narola <span>Ravi</span>
 
 .nav__link
 Home - About - Services - Projects - Contact
@@ -11,10 +11,10 @@ Home - About - Services - Projects - Contact
 Hello, <span>I’m</span>
 
 .home__title
-Patrick Moz
+Narola Ravi
 
 .home__education
-Front-end Developer
+Full-stack Developer
 
 .home__description
 With knowledge in web development and 
@@ -41,7 +41,7 @@ My <span>Intro</span>
 About Me
 
 .about__description
-Frontend developer, I create web pages with 
+Full-stack Developer, I create web pages with 
 UI / UX user interface, I have years of 
 experience and many clients are happy with the 
 projects carried out.
@@ -68,11 +68,12 @@ See Projects
 HTML & CSS
 JavaScript
 Bootstrap
+Tailwind CSS
 React
 
 Git & GitHub
-Figma
-Sketch
+MySQL
+Node
 
 
 ========== SERVICES ==========
@@ -160,10 +161,10 @@ EmailJS team
 
 ========== FOOTER ==========
 .footer__title
-Patrick <span>Moz</span>
+Narola <span>Ravi</span>
 
 .footer__education
-Front-end Developer  
+Full-stack Developer
 
 .footer__social-link
 https://www.facebook.com/
@@ -171,7 +172,7 @@ https://www.instagram.com/
 https://twitter.com/
 
 .footer__copy
-&#169; Copyright Bedimcode. All rights reserved
+&#169; Copyright Ravi Narola. All rights reserved
 
 .footer__social-icon (clip-path)
 polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
