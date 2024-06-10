@@ -1,1 +1,1 @@
-<h4 class='left'>My Protfolio</h4>
+<h4>My Protfolio</h4>
